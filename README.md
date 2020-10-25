@@ -26,4 +26,5 @@ func main() {
     })
     // ...
     timer.Stop() // stop the timer
+}
 ```
