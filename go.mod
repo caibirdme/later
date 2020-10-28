@@ -1,4 +1,4 @@
-module later
+module github.com/caibirdme/later
 
 go 1.15
 
